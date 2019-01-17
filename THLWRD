@@ -1,144 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E01
+#EXTINF:-1 tvg-logo="39" group-title="The L Word", TLW S01 x E01-02
 https://wabbit.moecdn.io/b328664b56fa5eaf?download_token=5416c0dcdbe36ad291ad0797fd8ccf3176c6cb863779a4b204a09f39c5f8a0f4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E02
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E02.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E03
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E03.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E04
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E04.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E05
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E05.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E06
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E06.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E07
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E07.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E08
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E08.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E09
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E09.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E10
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E10.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E11
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E11.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E12
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E12.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E13
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E13.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S01 x E14
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS01E14.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E01
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E01.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E02
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E02.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E03
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E03.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E04
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E04.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E05
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E05.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E06
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E06.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E07
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E07.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E08
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E08.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E09
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E09.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E10
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E10.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E11
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E11.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E12
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E12.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S02 x E13
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS02E13.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E01
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E01.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E02
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E02.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E03
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E03.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E04
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E04.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E05
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E05.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E06
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E06.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E07
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E07.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E08
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E08.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E09
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E09.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E10
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E10.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E11
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E11.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S03 x E12
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS03E12.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E01
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E01.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E02
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E02.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E03
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E03.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E04
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E04.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E05
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E05.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E06
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E06.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E07
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E07.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E08
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E08.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E09
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E09.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E10
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E10.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E11
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E11.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S04 x E12
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS04E12.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E01
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E01.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E02
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E02.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E03
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E03.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E04
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E04.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E05
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E05.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E06
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E06.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E07
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E07.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E08
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E08.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E09
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E09.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E10
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E10.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E11
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E11.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S05 x E12
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS05E12.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E01
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E01.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E02
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E02.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E03
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E03.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E04
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E04.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E05
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E05.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E06
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E06.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E07
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E07.mp4
-#EXTINF:-1 tvg-logo="http://img2.lhmtv.cf/26/items/LHMTvserieslogo/13re1.jpg" group-title="The L Word", TLW S06 x E08
-http://sve.redecanais.download/RedeCanais/RCServer10/ondemand/THLWRDS06E08.mp4
-
+#EXTINF:-1 tvg-logo="40" group-title="The L Word", TLW S01 x E03
+https://wabbit.moecdn.io/275d352be941faf3?download_token=a8df62515c1cd00beb085305925e2c0bf8d2cccca2b8da9e29d94a08c8edc062
+#EXTINF:-1 tvg-logo="41" group-title="The L Word", TLW S01 x E04
+https://wabbit.moecdn.io/b98688f7a01880ac?download_token=e33f351169cc411079520ab806824a983895a8bc64a42354d8004efcc5527ce9
+#EXTINF:-1 tvg-logo="42" group-title="The L Word", TLW S01 x E05
+https://wabbit.moecdn.io/11f5a2ac793d4508?download_token=b39890a44499b314499ba24c1d94e9b0d86f196fb55271a7ae5d06c9961df8ed
+#EXTINF:-1 tvg-logo="43" group-title="The L Word", TLW S01 x E06
+https://wabbit.moecdn.io/98e5ecb385b3bf40?download_token=1743dcef373277351f133e5696823f3478c2ff34ecf0ce9b6687618f1389c5c4
+#EXTINF:-1 tvg-logo="44" group-title="The L Word", TLW S01 x E07
+https://wabbit.moecdn.io/9aea1c0d01c602fb?download_token=06cfda83e901797a675409ef486f0b4750520c39774fdb3390ddafdfd0068738
+#EXTINF:-1 tvg-logo="45" group-title="The L Word", TLW S01 x E08
+https://wabbit.moecdn.io/d933cd3f882d51c4?download_token=e8c42c550d93db76af6901bfabc21461c386c1c8efba218c451ddda986b472c6
+#EXTINF:-1 tvg-logo="46" group-title="The L Word", TLW S01 x E09
+https://wabbit.moecdn.io/ce53c2bbac5fb4a1?download_token=6f610f93682789578e86fe0c5fd95dbe120d3e7db5ebd93920cd9044171398ea
+#EXTINF:-1 tvg-logo="47" group-title="The L Word", TLW S01 x E10
+https://wabbit.moecdn.io/e0b3f04217cd02dd?download_token=53a588fc0c0689b61e63598b066c7faf2a76818aed599b50f6711bb2ebea63d5
+#EXTINF:-1 tvg-logo="48" group-title="The L Word", TLW S01 x E11
+https://wabbit.moecdn.io/31ded6e29b068c66?download_token=84507df4e914bc8e327f74ca3e85f4ffb9341362b9a2be127a116785aad84e17
+#EXTINF:-1 tvg-logo="49" group-title="The L Word", TLW S01 x E12
+https://wabbit.moecdn.io/a6fe00d9a736ea6a?download_token=31208b9a4a288dcbcb87f7285ede3bc9f1a5a173b0ed58d92c976226303894d9
+#EXTINF:-1 tvg-logo="50" group-title="The L Word", TLW S01 x E13
+https://wabbit.moecdn.io/deadc2675a7f33eb?download_token=ad4d22f349fb3b96bba86c1cebc80fbda8b2e3861a08c6af12162bf2e7224952
+#EXTINF:-1 tvg-logo="51" group-title="The L Word", TLW S01 x E14
+https://wabbit.moecdn.io/dca0b47b0eb5dfbc?download_token=dcb4f3bd0cda3ff741e7b38a0d5d6ea17e5384f3a832aa3885aada9245a9d7c4
+#EXTINF:-1 tvg-logo="52" group-title="The L Word", TLW S02 x E01
+0
+#EXTINF:-1 tvg-logo="53" group-title="The L Word", TLW S02 x E02
+0
